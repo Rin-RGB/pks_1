@@ -2,6 +2,6 @@
 #include <iostream>
 
 int main() {
-    printHelloWorld(std::cout); 
+    printHelloWorld(std::cout);
     return 0;
 }
